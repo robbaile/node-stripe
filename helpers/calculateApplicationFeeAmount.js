@@ -1,0 +1,1 @@
+module.exports = calculateApplicationFeeAmount = (amount) => .1 * amount;
